@@ -20,6 +20,7 @@ function App() {
           Learn React
         </a>
         <h3> Lets go for a <FaBeer />? </h3>
+        <h3> Lets go for a <FaBeer />? </h3>
       </header>
     </div>
   );
